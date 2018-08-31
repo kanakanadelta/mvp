@@ -17,28 +17,39 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  <!-- > Name the product in a way the reader (i.e. your target customers) will understand. -->
+  Sonic OC Kombat Series aka. SOCKS
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  <!-- > Describe who the market for the product is and what benefit they get. One sentence only underneath the title. -->
+  The market for this product will be Sonic the Hedgehog fans and deviant art artists who are fond of fanmade sonic characters.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  <!-- > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good. -->
+  Video Game giant(?), SEGA, hosts a battle royale between Sonic OC (original character) masters, called the Deviants, 
+  and the winner will be given the chance to have their Sonic OC star in their own SEGA game. 
+  You, a deviant, will collect and build your own army of Sonic OCs and climb your way to the top and get your own original Sonic OC game.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  <!-- > Describe the problem your product solves. -->
+  >It's a Free-to-play game (webapp) where you get to collect pictures/cards of characters.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  <!-- > Describe how your product elegantly solves the problem. -->
+  >You're given free credits for the experience, and eventually will have microtransactions for those who want more out of the experience.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  <!-- > A quote from a spokesperson in your company. -->
+  >You are your own original character, with your own original Sonic character, in a compelling story to battle your way to having your own Sonic OC game. 
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  <!-- > Describe how easy it is to get started. -->
+  You boot up the game, collect points (or buy them), and build up your collections for a .
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  <!-- > Provide a quote from a hypothetical customer that describes how they experienced the benefit. -->
+  "I love that this game is free to play and I get to collect Sonic original characters and fight alongside them in a great story setting!"
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  <!-- > Wrap it up and give pointers where the reader should go next. -->
+  In closing, this will be a really fun experience for those who enjoy Sonic original characters and those who are into collector/gatcha games.
