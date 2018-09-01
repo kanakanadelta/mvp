@@ -1,0 +1,24 @@
+{ "_id" : ObjectId("5b89b55abd0921693fd084af"), "id" : 1, "name" : "Sonichu", "rarity" : "SD", "html_url" : "https://imgur.com/xxiUZ7d.jpg" }
+{ "_id" : ObjectId("5b89b5e6bd0921693fd084b0"), "id" : 2, "name" : "Cold Steel", "rarity" : "SDD", "html_url" : "https://imgur.com/Pd3VaKh.jpg" }
+{ "_id" : ObjectId("5b89b74ebd0921693fd084b1"), "id" : 3, "name" : "Darkedgebloodsword", "rarity" : "SDD", "html_url" : "https://imgur.com/OVLEL5U.jpg" }
+{ "_id" : ObjectId("5b89b859bd0921693fd084b2"), "id" : 4, "name" : "Anthony", "rarity" : "D", "html_url" : "https://imgur.com/EsvMGV4.jpg" }
+{ "_id" : ObjectId("5b89b873bd0921693fd084b3"), "id" : 5, "name" : "Justin", "rarity" : "D", "html_url" : "https://imgur.com/QwJR1EL.jpg" }
+{ "_id" : ObjectId("5b89b898bd0921693fd084b4"), "id" : 6, "name" : "Eric", "rarity" : "D", "html_url" : "https://imgur.com/b7fJ0Th.jpg" }
+{ "_id" : ObjectId("5b89bda6bd0921693fd084b5"), "id" : 7, "name" : "Amy", "rarity" : "D", "html_url" : "https://i.imgur.com/9U8Szq1.png" }
+{ "_id" : ObjectId("5b89bdaebd0921693fd084b6"), "id" : 8, "name" : "Brandon", "rarity" : "D", "html_url" : "https://i.imgur.com/HJK331A.jpg" }
+{ "_id" : ObjectId("5b89bdc7bd0921693fd084b7"), "id" : 9, "name" : "Joseph", "rarity" : "D", "html_url" : "https://i.imgur.com/M87jjiT.jpg" }
+{ "_id" : ObjectId("5b89bdcbbd0921693fd084b8"), "id" : 10, "name" : "Hannah", "rarity" : "SD", "html_url" : "https://i.imgur.com/HLQzW8j.jpg" }
+{ "_id" : ObjectId("5b89bdd0bd0921693fd084b9"), "id" : 11, "name" : "Drew", "rarity" : "D", "html_url" : "https://i.imgur.com/kiw7D37.jpg" }
+{ "_id" : ObjectId("5b89bdd5bd0921693fd084ba"), "id" : 12, "name" : "Running Fast", "rarity" : "SDD", "html_url" : "https://i.imgur.com/DLks8Yn.gif" }
+{ "_id" : ObjectId("5b89bde4bd0921693fd084bb"), "id" : 13, "name" : "Jeff", "rarity" : "SD", "html_url" : "https://i.imgur.com/BNu5FDm.jpg" }
+{ "_id" : ObjectId("5b89bdedbd0921693fd084bc"), "id" : 14, "name" : "Daniel", "rarity" : "SD", "html_url" : "https://i.imgur.com/SWeZ6qU.png" }
+{ "_id" : ObjectId("5b89bdf2bd0921693fd084bd"), "id" : 15, "name" : "David", "rarity" : "D", "html_url" : "https://i.imgur.com/5uBM5iW.png" }
+{ "_id" : ObjectId("5b89bdf6bd0921693fd084be"), "id" : 16, "name" : "Kevin", "rarity" : "D", "html_url" : "https://i.imgur.com/Vgn2UkP.png" }
+{ "_id" : ObjectId("5b89bdfabd0921693fd084bf"), "id" : 17, "name" : "Knuckles", "rarity" : "Trash", "html_url" : "https://i.imgur.com/Vgn2UkP.png" }
+{ "_id" : ObjectId("5b89bdffbd0921693fd084c0"), "id" : 18, "name" : "Julie", "rarity" : "D", "html_url" : "https://i.imgur.com/qGMHytg.png" }
+{ "_id" : ObjectId("5b89be05bd0921693fd084c1"), "id" : 19, "name" : "Katie", "rarity" : "SD", "html_url" : "https://i.imgur.com/7DGC6GC.png" }
+{ "_id" : ObjectId("5b89be0abd0921693fd084c2"), "id" : 20, "name" : "Ken", "rarity" : "SD", "html_url" : "https://i.imgur.com/fD1G8XV.png" }
+{ "_id" : ObjectId("5b89be0dbd0921693fd084c3"), "id" : 21, "name" : "Peter", "rarity" : "D", "html_url" : "https://i.imgur.com/caByO4N.jpg" }
+{ "_id" : ObjectId("5b89be13bd0921693fd084c4"), "id" : 22, "name" : "Metaphysical Manifestation", "rarity" : "SDD", "html_url" : "https://i.imgur.com/XQsdNOT.jpg" }
+{ "_id" : ObjectId("5b89be20bd0921693fd084c5"), "id" : 23, "name" : "Shotgun", "rarity" : "SDD", "html_url" : "https://i.imgur.com/chSUboq.gif" }
+{ "_id" : ObjectId("5b89be25bd0921693fd084c6"), "id" : 24, "name" : "Sanik", "rarity" : "SD", "html_url" : "https://i.imgur.com/NETLAtk.gif" }
