@@ -1,6 +1,7 @@
 const express = require('express');
 const Parser = require('body-parser');
 const db = require('../database/index.js');
+const Card = require('../database/index.js').Card;
 
 var app = express();
 
@@ -19,6 +20,16 @@ app.get('/summon', function (req, res) {
       res.json(sonics);
     }
   });
+
+  // db.Card.find({})
+  // .exec((err, data) => {
+  //   if (err) {
+  //     console.log(err);
+  //   } else {
+  //     console.log('here', data);
+  //     // callback(null, data);
+  //   }
+  // })
 });
 
 let port = 9000;
